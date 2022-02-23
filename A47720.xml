@@ -1,0 +1,529 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of peace between the emperour and empire, and France concluded in the royal palace of Reswick, in Holland, October 30, 1697.</title>
+            <title>Treaties, etc. France, 1697 Oct. 30</title>
+            <author>Holy Roman Empire.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47720</idno>
+            <idno type="STC">Wing L1108A</idno>
+            <idno type="STC">ESTC R43375</idno>
+            <idno type="EEBO-CITATION">27355736</idno>
+            <idno type="OCLC">ocm 27355736</idno>
+            <idno type="VID">110079</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47720)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110079)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1725:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of peace between the emperour and empire, and France concluded in the royal palace of Reswick, in Holland, October 30, 1697.</title>
+                  <title>Treaties, etc. France, 1697 Oct. 30</title>
+                  <author>Holy Roman Empire.</author>
+                  <author>Leopold I, Holy Roman Emperor, 1640-1705.</author>
+                  <author>France. Treaties, etc. Holy Roman Empire, 1697 Oct. 30.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by E. Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Treaty of Ryswick (1697)</term>
+               <term>Grand Alliance, War of the, 1689-1697.</term>
+               <term>Europe --  History --  1648-1715.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110079:1"/>
+            <pb facs="tcp:110079:1"/>
+            <p>ARTICLES OF PEACE Between the EMPEROUR and EMPIRE, AND FRANCE, Concluded in the Royal Palace of <hi>RESWICK</hi> in <hi>Holland,</hi> Octo<g ref="char:EOLhyphen"/>ber 30. 1697.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be Sold by <hi>E. Whitlock</hi> in <hi>Stationers Court,</hi> near <hi>Stationers-Hall.</hi> 1697.</p>
+            <pb facs="tcp:110079:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:110079:2"/>
+            <head>ARTICLES OF PEACE, Between the Emperour and Empire, AND FRANCE, Concluded in the Royal Palace at <hi>Reſwick</hi> in <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> October 30. 1697.</head>
+            <p>
+               <hi>In the Name of the Holy Trinity.</hi> Amen.</p>
+            <p>BE it known unto all and every individual Perſon whom it may concern, That ſeeing there has been for ſome Years paſt a Cruel War, waged with great Effuſion of Chriſtian Blood, and the Deſolation of divers Provinces, between the moſt Serene, and moſt Potent Prince and Lord, the Lord <hi>Leopold,</hi> Elect Emperour of the <hi>Romans,</hi> always Auguſt, King of <hi>Germany, Bohemia, Dalmatia, Croatia,</hi> and <hi>Slavonia,</hi> Arch-Duke of <hi>Auſtria,</hi> Duke of <hi>Bur<g ref="char:EOLhyphen"/>gundy, Brabant, Styria, Carinthia, Carniola;</hi> Marqueſs of <hi>Moravia,</hi>
+               <pb n="4" facs="tcp:110079:3"/>Duke of <hi>Luxemburg,</hi> of the Upper and Lower <hi>Sileſia, Wirtemburg,</hi> and <hi>Tecka,</hi> Prince of <hi>Suabia,</hi> Count of <hi>Habsburg, Tyrole, Kyburg</hi> and <hi>Goritia,</hi> Marqueſs of the Sacred <hi>Roman</hi> Empire, of <hi>Burgovia,</hi> and of the Upper and Lower <hi>Luſatia;</hi> Lord of the Mark of <hi>Slavonia,</hi> Port <hi>Naon,</hi> and the <hi>Salt Pits, &amp;c.</hi> on the one part, and the moſt Serene and moſt Potent Prince and Lord, <hi>Lewis</hi> XIV. the moſt Chriſtian King of <hi>France,</hi> and <hi>Navar,</hi> on the other part; and that their Imperial and Moſt Chriſtian Majeſties have been very intent upon the termina<g ref="char:EOLhyphen"/>ting, as ſoon as might be, thoſe Evils daily increaſing to the pre<g ref="char:EOLhyphen"/>judice of the Chriſtian Religion: It hath, by the Bleſſing of Almigh<g ref="char:EOLhyphen"/>ty God, been at length ſo brought to paſs, by the Endeavours of the Moſt Serene and moſt Potent Prince and Lord, <hi>Charles</hi> XI, King of the <hi>Swedes, Goths,</hi> and <hi>Vandals:</hi> Great Prince of <hi>Finland,</hi> Duke of <hi>Schonen, Eſten, Livonia, Carelia, Bremen, Verden, Stetin, Pomerania, Caſſubia,</hi> and <hi>Vandalia:</hi> Prince of <hi>Rugen,</hi> Lord of <hi>Ingria</hi> and <hi>Wiſmar,</hi> and alſo Count Palatine of the <hi>Rhine,</hi> Duke of <hi>Bavaria, Juliers, Cleve,</hi> and <hi>Berghen,</hi> &amp;c. of famous Memory, who from the very beginning of theſe Commotions, hath not ceaſed, with great Earneſtneſs, to per<g ref="char:EOLhyphen"/>ſwade the Chriſtian Princes to a Peace, and was at length receiv'd by all the Parties to be a Mediator for compoſing the ſame as ſoon as poſſible, and laboured moſt graciouſly therein to the day of his Death: That a ſolemn Treaty to that end, hath been ſet on foot in the Roy<g ref="char:EOLhyphen"/>al Palace of <hi>Reſwick</hi> in <hi>Holland,</hi> and after his Deceaſe, brought at laſt to an End, with the like Application of the moſt Serene and moſt Po<g ref="char:EOLhyphen"/>tent Prince and Lord, the Lord <hi>Charles</hi> XII. King of the <hi>Swedes, Goths,</hi> and <hi>Vandals;</hi> Great Prince of <hi>Finland,</hi> Duke of <hi>Schonen, Eſten, Livonia, Carelia, Bremen, Verden, Stetin, Pomerania, Caſſubia,</hi> and <hi>Vandalia;</hi> Prince of <hi>Rugen,</hi> Lord of <hi>Ingria</hi> and <hi>Wiſmar,</hi> as alſo Count Palatine of the <hi>Rhine;</hi> Duke of <hi>Bavaria, Juliers, Cleve,</hi> and <hi>Berghen,</hi> who ſuc<g ref="char:EOLhyphen"/>ceeds his Father with equal Care for the publick Tranquility. For the Extraordinary Embaſſadors and Plenipotentiaries, authoriz'd in due Form, having appeared on both ſides in the ſaid place, <hi>viz.</hi> On the part of his Imperial Majeſty, the moſt Illuſtrious and moſt Excellent Lords, the Lord <hi>Dominick Andreas,</hi> Count of the Sacred <hi>Roman</hi> Em<g ref="char:EOLhyphen"/>pire, and of <hi>Kaunitz;</hi> hereditary Lord of <hi>Auſterlitz, Hungariſhbrod, Mariſchprus,</hi> and of the greater <hi>Orzechan,</hi> Knight of the Golden Fleece, Councellor of State to his Imperial Majeſty, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>amberlain, and Vice-Chancellour of the Sacred Empire: The Lord <hi>Henry John,</hi> Count of the Sacred <hi>Roman</hi> Empire, of <hi>Straatman,</hi> and <hi>Peurbach;</hi> Lord of <hi>Orth, Shemiding, Spatenbrun,</hi> and <hi>Carlsberg;</hi> of his Imperial Majeſty's Court
+<pb n="5" facs="tcp:110079:3"/>Council, and Chamberlain: And the Lord <hi>John Frederick,</hi> free and Noble Baron of <hi>Seilern,</hi> Counſellor to his Imperial Majeſty, and Au<g ref="char:EOLhyphen"/>thoriſed Commiſſary in the Dyets of the Empire: And in the Name of the Moſt Chriſtian King, the moſt Illuſtrious and excellent Lords the Lord <hi>Nicholas de Harlay,</hi> Knight, Lord of <hi>Bonnevil,</hi> Count of <hi>Cely,</hi> Conſellour in ordinary to his Majeſty, in his Council of State: The Lord <hi>Ludovic Verjus,</hi> Knight, Counſellor in Ordinary to the King in his Council of State, Count of <hi>Crecy,</hi> Marqueſs of <hi>Freon,</hi> Baron of <hi>Couvay,</hi> Lord of <hi>Boullay,</hi> of the two Churches in <hi>Fortille,</hi> and in o<g ref="char:EOLhyphen"/>ther places; and the Lord <hi>Francis Callieres,</hi> Knight, Lord of <hi>Cal<g ref="char:EOLhyphen"/>lieres, Rupiſchelle</hi> and <hi>Gigny,</hi> by the intervention and Endeavours of the moſt Illuſtrious and moſt Excellent Lords, the Lord <hi>Charles, Bond,</hi> Count of <hi>Biornoo,</hi> Lord of <hi>Heſleby, Tyreſio, Toftaholm, Graffſteen, Gu<g ref="char:EOLhyphen"/>ſtafsberg,</hi> and <hi>Rezitza,</hi> Senator to his Swediſh Majeſty, and Chief Pre<g ref="char:EOLhyphen"/>ſident of the Court of <hi>Dorpaten</hi> in <hi>Livonia;</hi> and of the Lord <hi>Nicho<g ref="char:EOLhyphen"/>las Fell,</hi> Baron of <hi>Lillieroot,</hi> Secretary of State to his Swediſh Majeſty, and Embaſſador Extraordinary to their High and Mightineſſes, the States General of the Uunited Provinces, who have diſcharged the Of<g ref="char:EOLhyphen"/>fice of Mediators with much Integrity, Diligence and Prudence, with the Conſent and Suffrages of the Plenipotentiaries of the Ele<g ref="char:EOLhyphen"/>ctors, Princes and States of the Sacred Roman Empire, after having invoked the Aſſiſtance of the Divine Majeſty, and in due form Ex<g ref="char:EOLhyphen"/>changed the full Powers, have to the Glory of God, and good of Chriſtendom, mutually agreed on the following Conditions of Peace and Friendſhip.</p>
+            <p n="1">I. That there be a Chriſtian, Univerſal, and perpetual Peace and true Friendſhip between his Imperial Majeſty and his Succeſſors, the Sacred <hi>Roman</hi> Empire, his Hereditary Kingdoms and Dominions, Subjects and Vaſſals on the one part, and his Moſt Chriſtian Majeſty, and his Succeſſors, Subjects and Vaſſals on the other part; and that the ſame Peace be ſo ſincerely obſerved and cultivated, that neither Party ſhall contrive or promote any thing to the Damage or loſs of the other, under any pretence whatſoever; or give any Aid or Aſſiſtance to any Perſon or Perſons, that would deſign or put in Execution any thing to the detriment of either, under what denomination ſoever it be; or receive, protect, or aſſiſt the Rebellious or Seditious Sub<g ref="char:EOLhyphen"/>jects of each other, upon any account whatſoever; but rather that
+<pb n="6" facs="tcp:110079:4"/>each Party ſhall ſeriouſly promote the Honour, Advantage and Inte<g ref="char:EOLhyphen"/>reſt of the other, notwithſtanding any Promiſes made to the contrary, and any Treaties and Leagues, which way ſoever made, or to be made, which are hereby annulled.</p>
+            <p n="2">II. Let there be a perpetual amneſty and oblivion of all Acts of Hoſti<g ref="char:EOLhyphen"/>lity committed on either ſide, in any place, or by any way whatſoever, ſo that the one ſhall not becauſe of them, or under pretence of any o<g ref="char:EOLhyphen"/>ther thing either directly or indirectly, offer any Violence or Injury to the other, or ſuffer any to be done by Deed or Writing, but that all offered Injuries and Violences be ſo utterly aboliſhed, without any reſpect of Perſons or Things; that whatever upon that account the one may pretend againſt the other, ſhall be buried in perpetual oblivion: All and every the Vaſſals and Subjects of each Party ſhall alſo partake and enjoy this Amneſty, and the Benefit and Effect of it; ſo as that it be a Prejudice and a Crime in none of them to have followed this or that Party, ſo as not to be reſtored to the full Enjoyment of their for<g ref="char:EOLhyphen"/>mer State, in reſpect to Honour and Goods, as it was before the War began; excepting in thoſe things, which upon account of Eccleſiaſti<g ref="char:EOLhyphen"/>cal Benefices, Moveables and Incomes, are particularly ſpecified in the following Articles.</p>
+            <p n="3">III. And for as much as the Peace of <hi>Weſtphalia</hi> and <hi>Nimeguen,</hi> is to be the Baſis and Foundation of the preſent Peace; the ſame ſhall forthwith, after the exchange of the Ratifications, be fully reſtored and Executed both in Sacred and Civil Matters, and hereafter be preſerved inviolable, ſaving in ſuch Points as derogate from them expreſly in the preſent Treaty.</p>
+            <p n="4">IV. In the firſt place, his moſt Chriſtian Majeſty doth reſtore to his Im<g ref="char:EOLhyphen"/>perial Majeſty and the Empire, and to the States and Members thereof, whatever places and Juriſdictions that have been taken, as well during the War by way of Fact, as by the Name of Unions and Re-unions which are ſituated without <hi>Alſatia,</hi> or whatever have been expreſt in the In<g ref="char:EOLhyphen"/>ventory
+<pb n="7" facs="tcp:110079:4"/>of Re-unions exhibited by the <hi>French</hi> Embaſſador, revoking and making void all the Decrees, Arreſts, and Declarations, which upon that account have been put forth by the Chamber of <hi>Metz,</hi> and <hi>Beſançon,</hi> as alſo by the Council of <hi>Briſac;</hi> and all things to be re<g ref="char:EOLhyphen"/>ſtored into the ſame Condition they were in before thoſe Seizures, Unions, and Re-unions were made, and at no time hereafter to be di<g ref="char:EOLhyphen"/>ſturbed, or moleſted, but that the Roman Catholick Religion do re<g ref="char:EOLhyphen"/>main in theſe Places thus reſtored, in the ſame ſtate it is now in.</p>
+            <p n="5">V. And tho' from theſe general Rules it may be eaſily judged what Places they are, and how far the things that are to be reſtored do ex<g ref="char:EOLhyphen"/>tend, yet at the inſtances of ſome, and for ſome other particular Rea<g ref="char:EOLhyphen"/>ſons, it has been thought fit to make ſpecial mention of ſome things; but yet in ſuch a manner, that thoſe that are not expreſly named, are not to be taken as left out, but to have the ſame place altogether with the others named, and to enjoy the ſame Right.</p>
+            <p n="6">VI. The City of <hi>Treves</hi> ſhall be Reſtored to the Elector of that Name, and Biſhop of <hi>Spires,</hi> in the ſame ſtate it is in at preſent, without any farther demoliſhing of Places, or any detriment done to either publick or private Buildings, together with the Artillery that was found there<g ref="char:EOLhyphen"/>in, at the time it was laſt taken. And that all that hath been agreed on in reſpect to Seizures, Unions, and Re-unions in the Fourth Article pre<g ref="char:EOLhyphen"/>ceeding, ought alſo to be eſteemed to extend to the benefit of the Churches of <hi>Triers</hi> and <hi>Spire,</hi> as if particularly ſpecified.</p>
+            <p n="7">VII. The Elector of <hi>Brandenburg</hi> alſo ſhall enjoy all the benefits of this Peace, and be fully comprehended in it, with all his Dominions, Poſ<g ref="char:EOLhyphen"/>ſeſſions, Subjects, and Rights, and thoſe by name which belong to him, by vertue of the Treaty Concluded on the 29th of <hi>June,</hi> in the Year 1679. as if each Particular had been ſpecified herein.</p>
+            <pb n="8" facs="tcp:110079:5"/>
+            <p n="8">VIII. The moſt Chriſtian King ſhall reſtore to the Elector <hi>Palatine</hi> of the <hi>Rhine</hi> all his Dominions poſſeſt by him, whether they appertain to him alone, or in common with others, however denominated, eſpe<g ref="char:EOLhyphen"/>cially the City and Prefecture of <hi>Germerſheim,</hi> and the Prefectures and Subprefectures comprehended therein, with all the Caſtles, Cities, Towns, Villages, Lands, Feudſhips and Rights, as they were reſto<g ref="char:EOLhyphen"/>red by the Treaty of <hi>Weſtphalia;</hi> as alſo all the Writings or Records taken out of the <hi>Archive,</hi> Chancery, Foeudal Court, Chamber of Ac<g ref="char:EOLhyphen"/>counts, Prefectures, and other <hi>Palatine</hi> Offices that have been taken away, without exception of any Place, Thing, Right, or Record. And as to what concerns the Rights or Pretenſions of the Dutcheſs of <hi>Orleans,</hi> 'tis agreed, after the above-mentioned Reſtitution be firſt made, that the thing be decided according to the form Compromiſed between his Imperial and moſt Chriſtian Majeſty, as Arbitrators in the Matter, according to the Laws and Conſtitutions of the Empire; but if they ſhall not be able to agree it, then the ſame ſhall be left to the Arbitration of the Pope: But that in the mean time there be no leſs endeavour uſed to procure an amicable Agree<g ref="char:EOLhyphen"/>ment between the Parties; and until the ſaid Matter be fully decided, that there be the yearly Summ of two hundred thouſand Livres, or an hundred thouſand Florins paid by the ſaid Elector to the Dutcheſs of <hi>Orleans,</hi> upon that account and condition, as the ſame is expreſt in a particular Article, of the ſame force with the preſent Peace; reſer<g ref="char:EOLhyphen"/>ving every way at the ſame time the right of each Party, as well in the poſſeſſed as ſued-for part, as alſo the Rights of the Empire.</p>
+            <p n="9">IX. The Ancient Dutchy of <hi>Deuxponts</hi> ſhall be Reſtored freely and wholly to the moſt Serene King of <hi>Suedeland,</hi> as Count <hi>Palatine</hi> of the <hi>Rhine,</hi> Count of <hi>Spanheme,</hi> and <hi>Veldenz,</hi> with all its Appurtenances and Dependances, and with thoſe Rights that the Predeceſſors of his <hi>Swe<g ref="char:EOLhyphen"/>diſh</hi> Majeſty, the Count <hi>Palatines,</hi> and Dukes of <hi>Deuxponts</hi> have en<g ref="char:EOLhyphen"/>joy'd, or could have enjoy'd, according to the Tenour of the <hi>Weſt<g ref="char:EOLhyphen"/>phalian</hi> Treaty; ſo that all things under what Title ſoever pretended to, poſſeſſed, and re-united by the Crown of <hi>France</hi> hitherto, either in whole or in part of the ſaid Dutchy, ſhall return in full right to his
+<pb n="9" facs="tcp:110079:5"/>
+               <hi>Swediſh</hi> Majeſty, and his Heirs the Counts Palatines of the <hi>Rhine.</hi> All Records alſo belonging to the ſaid Dutchy ſhall be reſtored, together with the Artillery that were found in the ſame at the time it was firſt poſſeſt by <hi>France,</hi> and all other things concerning which it has been agreed upon in the preceeding Articles, in favour of things to be Reſtored.</p>
+            <p n="10">X. As for the Principality of <hi>Veldenz,</hi> and what the deceaſed Prince <hi>Leopold Lodowick</hi> Count Palatine of the <hi>Rhine</hi> poſſeſt under the name of the ſaid Principality, or the Principality of <hi>Lautereccen,</hi> they ſhall be reſtored as far as the fourth Section; and the Inventory exhibited by the <hi>French</hi> Embaſſage, reſerving ſtill entire, the pretenſions as well of the poſſeſſed as ſuing Party.</p>
+            <p n="11">XI. <hi>France</hi> ſhall alſo fully reſtore to the Grand Maſter of the <hi>Teutonick Order,</hi> and Biſhop of <hi>Worms,</hi> Prince <hi>Francis Lodowick Palatine,</hi> all the Commendums Conſecrated to or Poſſeſt by that Noble Order, Places, Profits, and Rights; and the ſaid Order ſhall enjoy, in reſpect to the Commendums, and other Goods ſcituated under the <hi>French</hi> Do<g ref="char:EOLhyphen"/>minion, as well upon account of Collation as Adminiſtration, the ſame Uſages, Priviledges and Immunities which they have enjoy'd heretofore, according to the Rules and Statutes of the Order, and what the Order of St. <hi>John</hi> of <hi>Jeruſalem</hi> was wont to enjoy.</p>
+            <p n="12">XII. The City and Caſtle of <hi>Dinant</hi> ſhall be reſtored to the Elector of <hi>Cologne,</hi> as Biſhop and Prince of <hi>Liege,</hi> in the ſame ſtate wherein it was, when aſſumed into the hands of <hi>France,</hi> with all its Rights and and Dependances, as alſo Canons and Records found at that time therein. And moreover, all that is comprehended in the Fourth Ar<g ref="char:EOLhyphen"/>ticle, concerning Seizures, Unions, and Re-unions, are eſteemed in a particular manner, to extend to the advantage of the Churches of <hi>Cologne</hi> and <hi>Liege.</hi>
+            </p>
+            <p n="13">XIII. As for the Houſe of <hi>Wirtemburg,</hi> and particularly Duke <hi>George,</hi> the Principality or Countrey of <hi>Mompelgard</hi> ſhall be reſtored to him, for himſelf and Succeſſors, in the ſame ſtate, with the ſame Rights and Prerogatives; and eſpecially into the ſame immediety towards the Sacred <hi>Roman</hi> Empire, as heretofore he has enjoy<g ref="char:punc">▪</g>d it, and as the reſt of the Princes of the Empire do, or ought to enjoy it; that Re<g ref="char:EOLhyphen"/>cognition of Vaſſalage that has been made to the Crown of <hi>France</hi> in the Year 1681. being utterly annulled hereby. And the ſaid Princes ſhall from henceforth freely enjoy all the Profits both Secular and
+<pb n="10" facs="tcp:110079:6"/>Eccleſiaſtical appertaining to the ſame, which they enjoyed before the Peace of <hi>Nimeguen,</hi> as well as the Feudſhips, which during the time of the <hi>French</hi>'s detention of them, or at any other time, did belong, and had not been granted by them to others, except<g ref="char:EOLhyphen"/>ing the Countrey of <hi>Baldenheim,</hi> with its Appurtenances, which the moſt Chriſtian King hath beſtowed upon Monſieur <hi>de Chamlay,</hi> Camp-Maſter General, and which ought to remain firm to him, but yet ſo, as he is obliged to do homage to the Duke of <hi>Wirtemburg,</hi> as his direct Lord, and to his Succeſſors; and to ſeek the renewing of his Feudſhip at his hands. They ſhall be reſtored alſo into the full and free poſſeſſion both of their Feudſhips in <hi>Burgundy, Clerevall,</hi> and <hi>Paſ<g ref="char:EOLhyphen"/>ſavant,</hi> as alſo of their Dynaſties, or Lordſhips of <hi>Granges, Herricourt, Blamont, Chatelot,</hi> and <hi>Clemont,</hi> and of the reſt that are ſituated in the County of <hi>Burgundy,</hi> and Principality of <hi>Montpelgard,</hi> together with all their Rights and Incomes, in the very ſame manner as they poſſeſt them before the Peace at <hi>Nimeguen;</hi> all thoſe things being utterly a<g ref="char:EOLhyphen"/>boliſhed which were done, or pretended to at any time, by what Title any way diſtinguiſhed, and in any manner whatſoever to the contrary.</p>
+            <p n="14">XIV. The Houſe or Marquiſate of <hi>Baden</hi> ſhall alſo enjoy all the Right and Benefit of this Peace, and at the ſame time of the Peace of <hi>Weſtphalia,</hi> and <hi>Nimeguen;</hi> but more eſpecially the Fourth and Fifth Articles of this Treaty.</p>
+            <p n="15">XV. In the ſame manner the Princes and Counts of <hi>Naſſaw, Hanaw,</hi> and <hi>Leinigen,</hi> and all the other States of the Sacred <hi>Roman</hi> Empire, who by the Fourth Article of this Treaty, or any other, are to be reſto<g ref="char:EOLhyphen"/>red, ſhall be re-poſieſt in all and ſingular their Dominions or Rights, and in all the Profits belonging to and Incomes ariſing from them, and in all other Rights and Benefits, by what name ſoever called, or di<g ref="char:EOLhyphen"/>ſtinguiſhed.</p>
+            <p n="16">XVI. But ſeeing for the better Eſtabliſhment of this Peace, it has been thought fit to make an Exchange of ſome Places, his Imperial Majeſty and the Empire, yield up to the moſt Chriſtian King and his Succeſ<g ref="char:EOLhyphen"/>ſors, the City of <hi>Strasburg,</hi> and whatever belongs to the ſaid City, on the left ſide of the <hi>Rhine,</hi> with all the Juriſdiction, Propriety, and Su<g ref="char:EOLhyphen"/>pream Dominion which hath hitherto appertained, or could appertain to him and the <hi>Roman</hi> Empire, and transfer all and ſingular of them to the moſt Chriſtian King and his Succeſſors, ſo that the ſaid City, with all its Appurtenances and Dependencies ſituated on the left ſide of the <hi>Rhine,</hi> without any reſervation, with all manner of Juriſdiction and
+<pb n="11" facs="tcp:110079:6"/>Superiority and Supream Dominion, do appertain from this time and for ever, to the moſt Chriſtian King, and his Succeſſors, and be under<g ref="char:EOLhyphen"/>ſtood to be incorporated with the Crown of <hi>France,</hi> without any con<g ref="char:EOLhyphen"/>tradiction from the Emperour, Empire or any other whatever; and for the greater validity of this Ceſſion or alienation; the Emperour and the Empire, by vertue of the preſent tranſaction expreſly derogate from all and ſingular the Decrees, Conſtitutions, Statutes and Cuſtoms of the preceding Emperours, and the Sacred <hi>Roman</hi> Empire, tho con<g ref="char:EOLhyphen"/>firmed by Oath, or to be Confirmed hereafter, and particularly from the Imperial Capitulation, ſo fas forth as any manner of alienation of the Goods and Rights of the Empire is prohibited; all which they ex<g ref="char:EOLhyphen"/>preſly renounce, and diſcharge the ſaid City, with all the Magiſtrates, Officials, Citizens and Subjects thereof, from the Oaths and Obliga<g ref="char:EOLhyphen"/>tions by which they have been hitherto bound to the Emperour and the Empire, and remit the ſame under the ſubjection, obedience and fide<g ref="char:EOLhyphen"/>lity of the moſt Chriſtian King, and his Succeſſors, and ſo conſtitute the moſt Chriſtian King in the full and juſt Propriety, Poſſeſſion and Sovereignty thereof, and renounce all Jurisdictions and pretentions in the ſame from henceforth and for ever; and to that end are pleaſed to expunge the ſaid City of <hi>Strasburgh</hi> out of the Body of the Empire.</p>
+            <p n="17">XVII. But it ſhall be free to all and ſingular the Inhabitants of the ſaid Ci<g ref="char:EOLhyphen"/>ty and its dependancies, of whatever condition they be; if they are minded to remove, to transfer their Dwellings from thence elſewhere, together with all their moveable Goods, without any let, detraction, or exacting any thing from them, within one Year after the Ratifica<g ref="char:EOLhyphen"/>tion of this Peace, and after five Years, having firſt performed the Con<g ref="char:EOLhyphen"/>ditions that have long ſince been in uſage there; and either to ſell or retain their moveables, and to manage the ſame either by themſelves or others. The ſame Power alſo of retaining, and either by them<g ref="char:EOLhyphen"/>ſelves or others, of managing or alienating them, ſhall remain to all the other Members or Subjects, whether mediate or immediate of the Empire, who have Goods, Profits, Debts, Actions, or Rights in the ſaid City, or its appurtenances, whether they have always retained them, Or that during the War, or before it, they have been Confiſca<g ref="char:EOLhyphen"/>ted or taken away, and granted to others, by what Name ſoever cal<g ref="char:EOLhyphen"/>led, or whereſoever they may live, reſerving ſtill the Eccleſiaſtical Juriſdiction to thoſe to whom of old it did belong, which Juriſdicti<g ref="char:EOLhyphen"/>on, or the exerciſe thereof, it ſhall be never lawful to obſtruct.</p>
+            <p n="18">XVIII. On the other hand his moſt Chriſtian Majeſty ſhall reſtore the Fort of <hi>Kehl</hi> built by him on the right ſide of the Rhine whole, together
+<pb n="12" facs="tcp:110079:7"/>with all its Rights and Dependencies, within Thirty days after the Ratification of this Treaty; but for the Fort called the <hi>Pile,</hi> and the reſt of them that have been built within the <hi>Rhine</hi> it ſelf, or any of its Iſlands, they ſhall be raſed down to the ground, within one Month after, or ſooner, if it can be, at the Charge of the Moſt Chriſtian King, and never to be re-built by neither Party hereafter; and the Navigation of the River, or other Uſe thereof, ſhall be alike free to the Subjècts of both Parties, or to any other that will repair thither, Sail, or carry Goods thereon; neither ſhall there be any thing done by either party there, or any where elſe towards turning the River, whereby to ren<g ref="char:EOLhyphen"/>der the Courſe thereof, or its Navigation, or other Uſe, the more difficult upon any account whatſoever, much leſs ſhall any new Cu<g ref="char:EOLhyphen"/>ſtoms, Impoſt, or Toll be exacted, or the old ones increaſed, or the Ships which paſs it to and fro, be forced to come to the one ſide of the River more than the other, or to unlade their Merchandiſe and Burdens or take them in; but that always ought to be left to every ones own freedom and liberty.</p>
+            <p n="19">XIX. His moſt Chriſtian Majeſty doth alſo give up to his Imperial Majeſty, and the moſt Serene Houſe of <hi>Auſtria,</hi> the City and Caſtle of <hi>Friburg,</hi> and alſo the Fort of St. <hi>Peter;</hi> and the Port called the <hi>Star,</hi> and what<g ref="char:EOLhyphen"/>ever other Fortifications that have been a-new erected or repaired there or elſewhere, through the <hi>Hercynian</hi> Foreſt, and the other Diſtrict of the <hi>Briſgow</hi> in the Condition they are now, without any manner of Demoliſhing or Impairment, together with the Villages of <hi>Lehen, Metzbauſen</hi> and <hi>Kirchzarth,</hi> and with all the Rights of the ſame, as they were yielded to his moſt Chriſtian Majeſty, or poſſeſſed or ex<g ref="char:EOLhyphen"/>erciſed by him; as alſo the Archives, and all the Writings or Re<g ref="char:EOLhyphen"/>cords found there at the ſame time, of his occupation of them, whe<g ref="char:EOLhyphen"/>ther they remain there ſtill, or have been carried elſewhere, with a reſervation always of the Rights of the Dioceſs, and other Rights and Profits of the Biſhoprick of <hi>Conſtans.</hi>
+            </p>
+            <p n="20">XX. In like manner, his moſt Chriſtian Majeſty entirely reſigns to his Imperial Mujeſty, and the Houſe of <hi>Auſtria,</hi> the City of <hi>Briſac</hi> in its preſent ſtate, with the Granaries, Armories, Fortifications, Works, Walls, Towns, and other publick and private Edifices, with all its de<g ref="char:EOLhyphen"/>pendencies on the right ſide of the Rhine; thoſe on the Weſt ſide of the ſaid River, and among the reſt, the Fort called the <hi>Mortier,</hi> being reſerved to his moſt Chriſtian Majeſty; but that called the New City, ſtanding on the ſame left ſide of the <hi>Rhine,</hi> as alſo the Bridge and For<g ref="char:EOLhyphen"/>tification built there, in an Iſland of the <hi>Rhine,</hi> ſhall be totally demo<g ref="char:EOLhyphen"/>liſh'd and laid flat with the ground, and are never to be rebuilt by ei<g ref="char:EOLhyphen"/>ther
+<pb n="13" facs="tcp:110079:7"/>Party at any time; Moreover the ſame liberty of removing from <hi>Briſac,</hi> as has been agreed upon in reſpect to <hi>Strasburg,</hi> is allowed here as full as if the ſame were repeated.</p>
+            <p n="21">XXI. The ſaid Places, Cities, Caſtles and Forts, with all their Diſtricts, Appurtenances, and Dependencies, given back to his Imperial Ma<g ref="char:EOLhyphen"/>jeſty by the moſt Chriſtian King, ſhall be reſtored and delivered up without any reſervation, exception, or retention, ſincerely and with<g ref="char:EOLhyphen"/>out any delay, hindrance or pretence, to thoſe who after the Ratifica<g ref="char:EOLhyphen"/>tions of this Peace ſhall be appointed and particularly deputed from his Imperial Majeſty for that end. And for that reaſon, the <hi>French</hi> chief Magiſtrates, Governours and other Officials ſhall be obliged to evacuate the Places, ſo as that the ſaid Cities, Caſtles, Forts and Pla<g ref="char:EOLhyphen"/>ces, with all their Prerogatives, Profits, Incomes and Emoluments, and whatſoever is comprehended under the ſame, ſhall return under the Juriſdiction, actual power, and every way to the Dominion and Sove<g ref="char:EOLhyphen"/>raingty of his Imperial Majeſty, and the Houſe of <hi>Auſtria,</hi> and remain in the ſame at all times, as they have heretofore appertained thereunto, and hitherto been poſſeſt by his moſt Chriſtian Majeſty; and no manner of Right or pretenſions to the ſaid places, is meant to remain or be reſerved to the Crown of <hi>France.</hi> Moreover nothing ſhall be re<g ref="char:EOLhyphen"/>quired in conſideration of the Expences and charges that <hi>France</hi> has been at, either upon the publick or private Buildings, and the plenary reſtitution of them ſhall not be retarded upon any account whatſoever, within Thirty Days after the Ratifications of the Peace, ſo that the <hi>French</hi> Garriſons ſhall forthwith withdraw from thence, without any Trouble, Loſs or Oppreſſion of the Citizens and Inhabitants, or of any other of the Subjects of the Houſe of <hi>Auſtria</hi> whatſoever, under Title of Debts or other pretenſions of any kind; neither ſhall it be lawful for the <hi>French</hi> Souldiers, in evacuating of the places, or any other where not belonging to his moſt Chriſtian Majeſty, to make any longer ſtay, to fix their Stations or Winter Quarters; but be obliged, without delay, to haſten to the proper Dominions of the Crown of <hi>France.</hi>
+            </p>
+            <p n="22">XXII. In the ſame manner <hi>Phillipsburg</hi> ſhall be deliver'd up to his Imperial Majeſty and the Sacred Roman Empire undamag'd, with the Fortifi<g ref="char:EOLhyphen"/>cations adjoining to it on the right ſide of the <hi>Rhine,</hi> and all the Can<g ref="char:EOLhyphen"/>non that were there the laſt time it was taken by <hi>France;</hi> reſerving e<g ref="char:EOLhyphen"/>very way the Rights of the Biſhop of <hi>Spire,</hi> and to that end the Fourth Article of the Treaty of Peace at <hi>Nimeguen</hi> ſhall be accounted as ex<g ref="char:EOLhyphen"/>preſly repeated in this place, but the Fortifications that have been rai<g ref="char:EOLhyphen"/>ſed on the left ſide, together with the Bridge built by the moſt Chri<g ref="char:EOLhyphen"/>ſtian King ſince his poſſeſſing himſelf of it, ſhall be deſtroy'd.</p>
+            <pb n="14" facs="tcp:110079:8"/>
+            <p n="23">XXIII. The moſt Chriſtian King, at his own Expences ſhall be obliged to demoliſh the Fortifications over againſt <hi>Hunningen,</hi> built on the right ſide and in an Iſland of the <hi>Rhine,</hi> the ground, together with the Build<g ref="char:EOLhyphen"/>ings thereof, to be reſtored the Houſe of <hi>Baden,</hi> and the Bridge built there over the <hi>Rhine,</hi> ſhall be deſtroy'd alſo.</p>
+            <p n="24">XXIV. In like manner the Fortification that is built on the right ſide of the <hi>Rhine,</hi> over againſt Fort <hi>Lovis,</hi> ſhall be deſtroy'd, the ſaid Fort to re<g ref="char:EOLhyphen"/>main together with the Iſland to the moſt Chriſtian King, but the ground of the demoliſhed Fortification, to be reſtored to the Mar<g ref="char:EOLhyphen"/>queſs of <hi>Baden,</hi> and part of the Bridge ſhall alſo be deſtroy'd, which reaches thither from the Iſland, and not repaired hereafter by either Party.</p>
+            <p n="25">XXV. Beſides, the moſt Chriſtian King is obliged to demoliſh the Works that have been added to the Caſtle of <hi>Trarback</hi> ſince the Peace of <hi>Ni<g ref="char:EOLhyphen"/>meguen,</hi> as alſo the Fort of <hi>Montroyal</hi> upon the <hi>Moſelle,</hi> which are to be rebuilt by none hereafter; but the Caſtle of <hi>Trarback</hi> is to be left in its former ſtate, and together with the City and its Appurte<g ref="char:EOLhyphen"/>nances, ſhall be fully reſtored to their former Owners.</p>
+            <p n="26">XXVI. Upon the ſame account alſo ſhall the Fortification, added to the Ca<g ref="char:EOLhyphen"/>ſtle of <hi>Kurburg</hi> by his moſt Chriſtian Majeſty be demoliſhed, which be<g ref="char:EOLhyphen"/>ing done, this Caſtle with the City of <hi>Reinleft,</hi> as well as the reſt of the Goods belonging to the Prince of <hi>Salm</hi> and his Kindred, <hi>Rhein<g ref="char:EOLhyphen"/>graues</hi> and <hi>Wildgraues,</hi> as alſo the Principallity of <hi>Salm</hi> by name, and the reſt ſhall be reſtored to them; to be poſſeſt by them altogether in the ſame manner, and with the ſame Right, as before their Depri<g ref="char:EOLhyphen"/>vation, and as is agreed in this Peace.</p>
+            <p n="27">XXVII. The ſame thing alſo is agreed upon for the Demoliſhing of the New Works added to Caſtle of <hi>Eberenburg,</hi> by the moſt Chriſtian King, and the ſame, with what ever elſe belongs to them, ſhall be reſtored by both Parties to the Barons of <hi>Sickingen.</hi>
+            </p>
+            <p n="28">XXVIII. Whereas the Duke of <hi>Lorrain</hi> has been engag'd with his Imperial Majeſty in this War, and would be comprehended in the preſent Trea<g ref="char:EOLhyphen"/>ty, he ſhall be reſtored for himſelf, Heirs and Succeſſors, into the free and full Poſſeſſion of their Eſtates, Places and Goods which his Unkle Duke <hi>Charles</hi> poſſeſt in the Year 1670 (when they were aſſumed into he Hands of the moſt Chriſtian King) except ſuch Alteratious as are <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be explained in the following Articles.</p>
+            <pb n="15" facs="tcp:110079:8"/>
+            <p n="29">XXIX. In the firſt Place, his moſt Chriſtian Majeſty ſhall reſtore to the Duke the old and new Citys of <hi>Nancy,</hi> with all Appurtenances, and with the Cannon that were found in the old City at the time of its falling into the Hands of <hi>France,</hi> but upon this Condition, that all the Works and Fortifications of the old City ſhall be left whole, as alſo the Gates of the new City, whoſe Works and Fortifications ſhall, at the Charge of his moſt Chriſtian Majeſty, be levell'd with the Ground, and are to be repaired at no Time thereafter, unleſs it be that the Duke and his Succeſſors are free to encloſe the new City with a ſingle Wall, without any Angles, when ever they pleaſe.</p>
+            <p n="30">XXX. His moſt Chriſtian Majeſty ſhall alſo evacuate the Caſtle of <hi>Bitſch,</hi> with all its Appurtenances; as alſo the Caſtle of <hi>Homburg,</hi> having firſt ruined their Works, which are no more to be repaired; but yet ſo, as that theſe Caſtles, and the Towns adjoyning to them be no way damnified, but be preſerved altogether unhurt.</p>
+            <p n="31">XXXI. Moreover, all things agreed on in the fourth Article concerning U<g ref="char:EOLhyphen"/>nions and Re-unions, ſhall be ſo far extended to the Duke, as if they were here repeated Word for Word; where, or which Way ſoever theſe Unions on Re-unions have been made.</p>
+            <p n="32">XXXII. But his moſt Chriſtian Majeſty reſerves to himſelf the Fort of <hi>Saar Lovis,</hi> with half a League round it, to be marked out by Commiſſio<g ref="char:EOLhyphen"/>ners appointed by the King and Duke of <hi>Lorrain,</hi> to be poſſeſt by him for ever, with all right of Soveraignty and Supream Dominion.</p>
+            <p n="33">XXXIII. The City alſo and Mayoralty of <hi>Longwy,</hi> together with their Ap<g ref="char:EOLhyphen"/>purtenances and Dependencies, ſhall, with all Sovereignty and Su<g ref="char:EOLhyphen"/>preme Dominion, remain under the Cuſtody of the moſt Chriſtian King, his Heirs and Succeſſors for ever; neither ſhall the Duke, and his Heirs and Succeſſors pretend any Right unto them for the future: But in Exchange for the ſaid City and Mayoralty, his moſt Chriſtian Majeſty will grant another Prefecture to the ſaid Duke in one of the three Biſhopricks, of the ſame Extent and Value with the others, which ſhall be fairly agreed on between the ſame Commiſſioners; and that ſame being thus yielded up, and transferred by the moſt Chriſtian King into the hands of the Duke; both the Duke himſelf, as well as his Heirs and Succeſſors, ſhall enjoy it for ever, with all Right of Soveraignty, ſupreme Dominion and Propriety.</p>
+            <pb n="16" facs="tcp:110079:9"/>
+            <p n="34">XXXIV. The Country ſhall always be open to the Kings Souldiers marching to the Frontiers, or returning from thence, without any Let or Hin<g ref="char:EOLhyphen"/>drance, thro' the Duke's Dominions, he having always timely Notice given him of the ſame, and that the Souldiers marching do not ſtraggle, nor turn out of their Road, but keep to the common and ſhorteſt Way, and make due haſte in their March, without any Delay, offering no vi<g ref="char:EOLhyphen"/>olence nor Detriment to the Places and Subjects of the Duke, and pay for their Proviſion with ready Mony, and for other Neceſſaries to the Duke's Commiſſioners that are to provide them; abolliſhing again, and ful<g ref="char:EOLhyphen"/>ly reſtoring the Way and Places under the Power of the Duke, with<g ref="char:EOLhyphen"/>out any Exception, which were reſerved to the moſt Chriſtian King by the Peace of <hi>Nimeguen.</hi>
+            </p>
+            <p n="35">XXXV. The Eccleſiaſtical Benefices, which to the Day of the Preſent Trea<g ref="char:EOLhyphen"/>ty, have been conferred by the moſt Chriſtian King, ſhall be left qui<g ref="char:EOLhyphen"/>etly to the now Poſſeſſors, who obtain'd them of his moſt Chriſtian Majeſty.</p>
+            <p n="36">XXXVI. It has beſides been agreed on, that all Proceſſes, Sentences and De<g ref="char:EOLhyphen"/>crees, made by the Council, Judges, and other of the moſt Chriſtian King's Officials, as well between the Dutchy of <hi>Lorrain</hi> as others, in the time when the moſt Chriſtian King poſſeſt theſe States, ſhall take place, and have as full and plenary Effect, as if his now Chriſtian Ma<g ref="char:EOLhyphen"/>jeſty remained Poſſer of them, neither ſhall it be lawful to call the ſaid Decrees into Queſtion, or to annul, or retard and hinder the Execu<g ref="char:EOLhyphen"/>tion of them; but it ſhall be free for the Parties, according to the Or<g ref="char:EOLhyphen"/>der and Diſpoſition of the Laws and Conſtitutions, to have tecourſe to the reviewing of ſuch Acts, but the Sentences are in the mean time to remain in their full Force and Vigour:</p>
+            <p n="37">XXXVII. The Archives and Records which were kept and taken away from the Treaſury of <hi>Naney</hi> and <hi>Barr,</hi> and both Chambers of Accounts, and elſewhere, ſhall be reſtored forthwith to the Duke, after the Ra<g ref="char:EOLhyphen"/>tification of the Peace.</p>
+            <p n="38">XXXVIII The Duke may preſently after the Ratification of the Peace, ſend Commiſſioners into the Dutchy of <hi>Lorrain,</hi> and <hi>Barr,</hi> who ſhall look after his Affairs, adminiſter Juſtice, take care of the Cuſtoms, Salt-Pits, and other Rights belonging to him, ſettle the Poſt, and do all other Things which may appertain to the Government, which the Duke at the ſame time is to take upon him.</p>
+            <pb n="17" facs="tcp:110079:9"/>
+            <p n="39">XXXIX. As for Impoſts and Cuſtoms, or the Immunities of them as to Salt, and Wood Carriage, whether by Land or by Water, the ſame Manner and Cuſtom ſhall be kept, as was in the Year 1670, without any man<g ref="char:EOLhyphen"/>ner of Innovation.</p>
+            <p n="40">XL. The Ancient Uſage and Liberty of Commerce ſhall remain between <hi>Lorain,</hi> and the Juriſdiction of <hi>Metz, Toul,</hi> and <hi>Verdun,</hi> and ſhall be exactly obſerved for the Benefit of both Sides, for the future.</p>
+            <p n="41">XLI. In like manner the Agreements made between the moſt Chriſtian Kings and the Dukes of <hi>Lorrain,</hi> ſhall be kept inviolably in their for<g ref="char:EOLhyphen"/>mer Force and Vigour.</p>
+            <p n="42">XLII. It ſhall be free for the Duke and his Brethren, after the Reſtitution of them, to proſecute their Right in the ordinary way of Juſtice, which they affirm to belong to them in divers Caſes, notwithſtanding the Senten<g ref="char:EOLhyphen"/>ces that may have been paſt in their Abſence, and without their being heard againſt them.</p>
+            <p n="43">XLIII. As to thoſe Things which otherwiſe are not expreſly agreed on here, thoſe Matters which are contained in this Treaty eſpecially the Section, <hi>The Vaſſals of both Parties ſhall be reſtored,</hi> &amp;c. that Section, <hi>As ſoon as the Treaty of Peace,</hi> &amp;c. and Section, <hi>And as to the Subjects, &amp;c.</hi> ſhall be obſerved in reſpect to the Duke, his Dominions, and Subjects, as if they had been particularly ſpecified herein.</p>
+            <p n="44">XLIV. The Lord Cardinal de <hi>Fuſtemburg</hi> ſhall be Reſtored to all his Rights, Feudal Goods, Freeholds, Benefices, Honours, and Prerogatives which belong to the Princes and Members of the Sacred Empire, as well upon account of his Biſhoprick of <hi>Strasburg,</hi> on the right ſide of the <hi>Rhine,</hi> as of the Abbey of <hi>Stavelon,</hi> or others, and ſhall enjoy with his Kin<g ref="char:EOLhyphen"/>dred or Relations who have adhered to him, as alſo his Domeſticks a full Amneſty and Security from all Acts, and Deeds, and whatever Decrees elſe have been made againſt him, or them; neither ſhall he be liable himſelf, and his Heirs, or his Relations or Kindred, and Domeſticks, to be called to an account for the Inheritance of the de<g ref="char:EOLhyphen"/>ceaſed Elector <hi>Maximilian Henry,</hi> by the Electors of <hi>Cologne,</hi> and <hi>Ba<g ref="char:EOLhyphen"/>varia,</hi> their Heirs, or any other, As the ſaid Cardinal, his Kindred or Relations, and Domeſticks, or any having power from them, ſhall not be at liberty neither to demand any thing any manner of way of the Electors out of that Inheritance, or for the Legacies left them, or
+<pb n="18" facs="tcp:110079:10"/>things beſtowed upon them, all right, pretenſion, or perſonal and real action being utterly aboliſhed hereby, the ſame amneſty and ſecurity ſhall ſuch of them be made partakers of, and enjoy the ſame right alto<g ref="char:EOLhyphen"/>gether, who being Canons of <hi>Cologn,</hi> took part with him, and were deprived of their Canonſhips and Benefices; who ſhall be reſtored, with all the Rights of Canons, Benefices and Dignities, into the ſame Places and Order of the Cathedral Chapter and Collegiate Churches they were in before they were depoſed; but yet ſo, that the Profits do remain to the preſent Poſſeſſors; theſe as well as the reſtored ones, ſhall enjoy the common Titles and Function of Dignities and Benefices, but the reſtored ones to have the preference, but that after the death of the Poſſeſſors, or their voluntary reſignation, the reſto<g ref="char:EOLhyphen"/>red Canons alone ſhall enjoy the Dignities and Profits. In the mean time, according to the Order they have among themſelves, each of them ſhall receive the new Prebends next vacant as they fall in courſe, and that this alſo will be pleaſing to the upper Eccleſiaſticks, to whom it may belong, is not at all doubted of. The Heirs alſo of thoſe Canons, who being in like manner in a deſtitute ſtate, withdrew themſelves during the War, whoſe Goods, Eſtates and Rights were Se<g ref="char:EOLhyphen"/>queſtred, and adjudged Forfeited, towards the recovery of theſe, they ſhall fully enjoy the benefit of Section, <hi>And all the Vaſſals of both Parties ſhall be reſtored, &amp;c.</hi> with the addition of this expreſs Con<g ref="char:EOLhyphen"/>dition, that the Legacies which have been left by the Deceaſed for Pious Uſes, ſhall be paid according to their Wills, out of the Eſtates aſſigned for them.</p>
+            <p n="45">XLV. The Landgraves of <hi>Heſs Reinfield</hi> alſo ſhall be particularly included in this Amneſty, and be put into the ſame ſtate, in reſpect to the Caſtle of <hi>Rheinfeld,</hi> and all the lower County of <hi>Catzenellabogen,</hi> as their. Father Landgrave <hi>Erneſt</hi> was before the beginning of this War, reſerving however in all Places thoſe Rights belonging to the Land<g ref="char:EOLhyphen"/>grave of <hi>Heſs-Caſſel.</hi>
+            </p>
+            <p n="46">XLVI. All the Vaſſals and Subjects of both Parties, both Eccleſiaſtical and Secular, Bodies Politick, Univerſities and Colledges ſhall be reſtored to the Honours, Dignities and Benefices they enjoy'd before the War; as alſo to all Rights, Goods, Moveables, and Immoveables, Eſtates alſo or Incomes, that can be recovered, and ſuch as have determined with the Life of any (provided their Offspring be not extinct) that have been ſeized and detained in the time and by reaſon of the War, together with the Rights, Actions, and Succeſſions which fell to them during the War; but yet in ſuch a manner, as they ſhall have power
+<pb n="19" facs="tcp:110079:10"/>to demand nothing upon the account of returns or products of the E<g ref="char:EOLhyphen"/>ſtates they have quitted, till the day of the Ratification of the Peace. In like manner they ſhall no more be able to demand thoſe Debts, Mer<g ref="char:EOLhyphen"/>chandizes, and Moveables, that in the time, and by reaſon of the War have been forfeited, or by publick Authority put to any other uſe; and ſo neither the Creditors of the ſaid Debts, nor the Owners of thoſe Merchandizes or Moveables, and their Heirs, or any having power from them, ſhall ever be free to proſecute the ſame, or to pre<g ref="char:EOLhyphen"/>tend to any Satisfaction, or Reſtitution. Theſe Reſtitutions ſhall alſo be extended unto them that have ſided with the contrary Party, or have been ſuſpected upon that Account; and to thoſe who after the Peace of <hi>Nimeguen</hi> had their Goods, Incomes or Rights taken a<g ref="char:EOLhyphen"/>way from them, becauſe they dwelt elſewhere, or did not do homage, or for the like Cauſes and Pretences, and who hereafter by vertue of this preſent Peace ſhall return to the Favour of their own Prince, as alſo into their ancient Rights and reſpective Goods, ſuch as theſe have been at the time of the Concluſion of this Treaty; and all theſe things ſhall be put in execution forthwith, after the Ratification of the Peace, notwithſtanding any Gifts, Grants, Alienations, Declarations, Con<g ref="char:EOLhyphen"/>fiſcations, Commiſſions, Charges, Improvements, Interlocutory and Definite Sentences paſt for Contumacy, in the abſence of the Parties, and unheard; which Sentences and adjudged Caſes ſhall be deemed void, and thenceafter ſo eſteemed, as if they had never been adjudged or pronounced; there being a full and entire Liberty reſerved to them, to return into their Countrey, or to thoſe Goods, as alſo for them to en<g ref="char:EOLhyphen"/>joy them, either there themſelves with the Returns and Incomes there<g ref="char:EOLhyphen"/>from, or elſewhere, wherever they pleaſe to fix their Habitation or Aboad, according to their choice, without any manner of Exaction, or Violence. And then it ſhall be free for them by unſuſpected A<g ref="char:EOLhyphen"/>gents to mannage their Eſtates, and Incomes, as alſo to enjoy them, but yet with an exception as to Eccleſiaſtical Benefices that require the Parties reſidency, which ought perſonally to be Adminiſtred and look<g ref="char:EOLhyphen"/>ed after. Laſtly, it ſhall be free for the Subjects of either Party to Sell, Change, Alienate and Transfer their moveable and immoveable Goods, Incomes and Returns which they have under the Dominion of either, or otherwiſe to diſpoſe of them while alive, and by laſt Will, ſo that any Perſon, be he a Subject or Foreigner, ſhall be free to buy or ac<g ref="char:EOLhyphen"/>quire them, without being obliged to ſue for any other or farther leave of his Superiour, beſides what is contained in this Article.</p>
+            <p n="47">XLVII. If ſome mediate or immediate Eccleſiaſtical Benefices have been con<g ref="char:EOLhyphen"/>ferred during this War by either Party in the Lands or Places then
+<pb n="20" facs="tcp:110079:11"/>ſubject to him, to ſuch as were Capacitated for the ſame, according to the Rule of the firſt Inſtitution, and general or particular legal Sta<g ref="char:EOLhyphen"/>tutes made concerning them, or according to any other diſpoſal or proviſion, tho' Canonically made by the Pope, thoſe as well as the other Eccleſiaſtical Benefices which before this War were conferred in like manner in Places that are to be reſtored by this Peace, ſhall be left to the preſent Poſſeſſors, ſo as that they ſhall not and ought not to be ſued, convened, or upon any account moleſted and diſquieted, neither in the poſſeſſion or lawful adminiſtration of them, nor in receiving of the Profits thereof, nor be diſturbed and hindred therein, upon the ac<g ref="char:EOLhyphen"/>count of them, or for any paſt or preſent Cauſe, provided ſtill they perform thoſe Duties incumbent upon them in relation to thoſe Bene<g ref="char:EOLhyphen"/>fices.</p>
+            <p n="48">XLVIII. Whereas it will be conducive to the Publick Tranquility, that the Peace concluded at <hi>Turin, Aug.</hi> 29.1696. between his moſt Chri<g ref="char:EOLhyphen"/>ſtian Majeſty and the Duke of <hi>Savoy,</hi> be exactly obſerved, its thought fit to confirm and comprehend the ſame in this Peace, ſo as that it is and ſhall always remain in the ſame force with this Peace; thoſe things beſides are particularly confirmed, which have been agreed on for the Houſe of <hi>Savoy,</hi> by the <hi>Weſtphalian</hi> and <hi>Nimeguen</hi> Treaties a<g ref="char:EOLhyphen"/>bove confirmed, and they are eſteemed ſo, as if repeated here by name; but yet ſo, as that that Obligation can in no part thereof be leſned or alter'd by the reſtitution made of <hi>Pignerol,</hi> and its Depen<g ref="char:EOLhyphen"/>dances, which his moſt Chriſtian Majeſty hath taken upon himſelf, of paying 400 and 94 thouſand Crowns to the Duke of <hi>Mantua</hi> for the diſcharge of the Duke of <hi>Savoy,</hi> as is declared at large in the Articles of the <hi>Weſtphalian</hi> Treaty; and that they may the more fully and firm<g ref="char:EOLhyphen"/>ly be corroborated, all and every the Princes concerned in the Gene<g ref="char:EOLhyphen"/>ral Peace, give the ſame <hi>ſponſions</hi> or Guarantees, as they have ſtipula<g ref="char:EOLhyphen"/>ted among themſelves for their greater ſecurity, to the Duke of <hi>Savoy,</hi> and receive the ſame reciprocally from him.</p>
+            <p n="49">XLIX. But upon the rendring up or reſtitution of any Places, Perſons, things or Juriſdictions made, or to be made by <hi>France,</hi> there ſhall no new right be acquired over the things reſtored, or to be reſtored; but, and if others have pretenſions againſt them, theſe pretenſions after ſuch re<g ref="char:EOLhyphen"/>ſtitution made, which for that reaſon, ſhall by no means be delay'd, ſhall be propounded, examined, and decided in a convenient place.</p>
+            <p n="50">L. As ſoon as the Inſtrument of this Peace ſhall be Subſcribed, and Signed by the Extraordinary Embaſſadors, and Plenipotentiaries, all manner of Hoſtility and Violence ſhall ceaſe, and the ruining of Build<g ref="char:EOLhyphen"/>ings
+<pb n="21" facs="tcp:110079:11"/>deſtroying of Vineyards and Woods, or cutting down of Trees; and the Forces on both ſides ſhall forthwith, after the Ratifications are Exchanged, be withdrawn from unfortify'd places belonging to the other Party: But as for Fortify'd places that are to be reſtored by Vertue of this Peace, they ſhall be deliver'd up within Thirty Days after the Ratifications are made or ſooner, if it can be, to thoſe who are named in the foregoing Articles; or if they have not been ex<g ref="char:EOLhyphen"/>preſt, to ſuch as were immediately before the Deprivation made, in poſſeſſion of them, without ruining any of the Fortifications, publick or private Buildings, or worſting of the condition they are now in, or by claiming of any Charges they have been at, upon, or concerning them, or by any exactions of Souldiers, or in their Name, or any o<g ref="char:EOLhyphen"/>ther alledged cauſe, or by the taking away of things belonging to the Inhabitants, or left them by this Peace: And as for the demoliſhing of thoſe places before agreed on, that ſhall be fully done, and finiſh'd without the Expence and trouble of the other Party, the leſſer ones to be done within the ſpace of one Month, and the greater in two Months, or ſooner, if it can be done: Beſides all Archives or Records, and not on<g ref="char:EOLhyphen"/>ly thoſe which belong to the places that are to be reſtored, and left to his Imperial Majeſty, the Empire and the States and Members thereof, but alſo all thoſe which have been taken away from the Chamber and City of <hi>Spire,</hi> and elſewhere in the Empire, ſhall be ſincerely reſtored, preſently after the Exchange of the Ratifications, tho' there be no par<g ref="char:EOLhyphen"/>ticular mention made thereof in this Agreement; the Priſoners alſo that have been made on both ſides, upon account of the War, ſhall be ſet at full liberty without any Ranſom, eſpecially ſuch as have been committed to the Gallies, or elſewhere to publick Works.</p>
+            <p n="51">LI. And to the end the Subjects of either Party may the ſooner partici<g ref="char:EOLhyphen"/>pate of the fruits of the Peace, it is agreed, That all Contributions, Mo<g ref="char:EOLhyphen"/>ney, Corn, Wine, Hay, Wood, Cattle, or any thing elſe otherwiſe denomi<g ref="char:EOLhyphen"/>nated, tho' they have been already required from, or by Agreement enga<g ref="char:EOLhyphen"/>ged for by the Subjects of either, as alſo forraging of any Kind in the others Dominion, ſhall immediately after the Day of the exchange of the Ratifications totally ceaſe; And what ſhall then remain due as unpaid, or the like, or any other Contributions, Impoſitions or Exactions ſhall be utterly aboliſhed, and ſo remain; the Hoſtages alſo, what cauſe ſo<g ref="char:EOLhyphen"/>ever they have been given for, or taken away, ſhall without delay, or any money paid be given up, and freely diſmiſt into their Country.</p>
+            <p n="52">LII. The Commerce alſo that during the War has been prohibited be<g ref="char:EOLhyphen"/>tween his Imperial Majeſty and the Empire's Subjects and thoſe of his
+<pb n="22" facs="tcp:110079:12"/>moſt Chriſtian Majeſty, and the Kingdom of <hi>France,</hi> ſhall immediately after the ſubſcribing of the Peace, be reſtored into the ſame freedom as before the War; and all and every of them of both ſides, particular<g ref="char:EOLhyphen"/>ly the Citizens and Inhabitants of the Imperial Cities and <hi>Hanſe-Towns,</hi> both by Sea and Land, ſhall enjoy the fulleſt ſecurity, their Antient Rights, Immunities, Priviledges, and Emoluments, that have been ob<g ref="char:EOLhyphen"/>tained by Solemn Treaties, or Ancient Cuſtom; any farther agree<g ref="char:EOLhyphen"/>ment therein being left alone 'till after the Peace.</p>
+            <p n="53">LIII. All things agreed on by this Peace ſhall be of force, and remain al<g ref="char:EOLhyphen"/>ways firm, obſerved and put in execution, notwithſtanding any thing or things that may ever be believed, altered or thought on to the con<g ref="char:EOLhyphen"/>trary, which are hereby abrogated and made void, tho they may be ſuch things, whereof a more particular and ample mention ought to be made, and of which, the Abrogation or Annulling might ſeem to be ſaid to be nul and invalid.</p>
+            <p n="54">LIV. It ſhall be free for the Parties on both ſides to ſtrengthen this Peace, and the Obſervation of it by Leagues, making and enlarging Fortificati<g ref="char:EOLhyphen"/>ons on their own Ground at their Pleaſure, but without the Places ex<g ref="char:EOLhyphen"/>cepted before by Name, and by other means tending to their Defence; all other Kings, Princes, and Republicks, and eſpecially his <hi>Swediſh</hi> Majeſty, or the Mediator, ſhall alſo have a right to be Guarrantees of this Peace between his Imperial Majeſty and the Empire, and the moſt Chriſtian King, as well as to claim the ſame by Vertue of the <hi>Weſtpha<g ref="char:EOLhyphen"/>lian</hi> Treaty.</p>
+            <p n="55">LV. And ſeeing his Sacred Imperial Majeſty, and the Empire, and his Sa<g ref="char:EOLhyphen"/>cred moſt Chriſtian Majeſty, do gratefully acknowledge the unweary'd Endeavors and Offices which the moſt Serene King of <hi>Swedeland</hi> hath u<g ref="char:EOLhyphen"/>ſed for the bringing about of the Publick Tranquility; it is agreed by both Parties, that he with his Kingdoms and Provinces ſhall by Name be comprehended in this Treaty, in the beſt manner that can be.</p>
+            <p n="56">LVI. Moreover in this Peace made in the Name of his Imperial Majeſty and the Empire, are comprehended, beſides the Members of the Em<g ref="char:EOLhyphen"/>pire already mentioned, the reſt of the Electors, Princes, States and Members of the Empire, and among them particularly the Biſhop and Biſhoprick of <hi>Baſil,</hi> with all their Juriſdictions, Prerogatives and Rights; as alſo the Thirteen <hi>Swiſs</hi> Cantons with their Confederates, particular<g ref="char:EOLhyphen"/>ly the Republick and City of <hi>Geneva</hi> and its Dependencies, the City and County of <hi>Neufchaſſel</hi> upon the Lake, the Cities of St. <hi>Gall, Mul<g ref="char:EOLhyphen"/>hauſen,</hi>
+               <pb n="23" facs="tcp:110079:12"/>and <hi>Bienne,</hi> the three leagu'd <hi>Rhoetia,</hi> or the <hi>Griſons',</hi> the up<g ref="char:EOLhyphen"/>per and lower <hi>Valleſia,</hi> and the Abbot of St. <hi>Gall.</hi>
+            </p>
+            <p n="57">LVII. In like manner the thirtee<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>Swiſs Cantons</hi> and their Confederates, and particularly the Republick of <hi>Valeſia,</hi> are in the Name of his moſt Chri<g ref="char:EOLhyphen"/>ſtian Majeſty comprehended in this Peace.</p>
+            <p n="58">LVIII. All others alſo ſhall be included in this Peace, who ſhall be named with common Conſent, by one or other of the Parties, before the Ex<g ref="char:EOLhyphen"/>change of the Ratifications, or within ſix Months after.</p>
+            <p n="59">LIX. The Peace being thus concluded, the Embaſſadors extraordinary, and Plenipotentiaries of both Parties do promiſe that the ſame ſhall be ra<g ref="char:EOLhyphen"/>tified in the Manner mutually agreed on, by the Emperor and Empire, and the moſt Chriſtian King, reſpectively; and to take effectual Care that the Ratifications be within the ſpace of ſeven Weeks, to be computed from the Day of the ſigning hereof, or ſooner if poſſible, reciprocally exchanged.</p>
+            <p n="60">LX. And for the greater Strength and Validity of all Things contained in this Treaty of Peace, as well the Embaſſadors extraordinary and Ple<g ref="char:EOLhyphen"/>nipotentiaries of his Imperial Majeſty, as thoſe of his moſt Chriſtian Majeſty, together with the Plenipotentiaries of the Electors, Princes, and States of the Empire deputed to this end, have ſubſcribed the ſame with their Hands, and ſealed them with their own Seals.</p>
+            <closer>
+               <dateline>Done at the Pa<g ref="char:EOLhyphen"/>lace of <hi>Reſwick</hi> in <hi>Holland,</hi> 
+                  <date>the 30th. of <hi>October,</hi> in the Year of our Lord 1697.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>(L. S.) <hi>D. A. C. à Caunitz.</hi>
+                     </item>
+                     <item>(L. S.) <hi>Henr. C. de Stratman.</hi>
+                     </item>
+                     <item>(L. S.) <hi>J. F. L. B. à Seilern.</hi>
+                     </item>
+                     <item>(L. S.) <hi>de Harlay Bonneiiil.</hi>
+                     </item>
+                     <item>(L. S.) <hi>Verjus de Crecy.</hi>
+                     </item>
+                     <item>(L. S.) <hi>de Callieres.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the Elector of Mentz.</head>
+                     <item>(L. S.) <hi>M. Frederic Baron de Scanborn Emb.</hi>
+                     </item>
+                     <item>(L. S.) <hi>Ignatius Antonius Otten Plenipotentiary.</hi>
+                     </item>
+                     <item>(L. S.) <hi>Georgius Vilhelmus Moll Plenipotentiary.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the Elector of Bavaria.</head>
+                     <item>
+                        <hi>De Prielmayer, Extraordinary Emb. and Plenipotenitary,</hi> (L. S.)</item>
+                  </list>
+                  <list>
+                     <head>In the Name of the Houſe of Auſtria.</head>
+                     <item>(L. S.) <hi>Francis Rudulphus of Halden, L. Baron of Trazberg, &amp;c.</hi>
+                     </item>
+                  </list>
+                  <pb n="24" facs="tcp:110079:13"/>
+                  <list>
+                     <head>In the Name of the Grand Maſter of the Teutonick Order.</head>
+                     <item>(L. S.) <hi>Charles B. à Loë, Knight of the Teutonick Order.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the Moſt High Prince and Biſhop of Wertzberg.</head>
+                     <item>(L. S.) <hi>John Conrad Phillip Ignatius de Taſtunge.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the Moſt High and Moſt Eminent Elector of Triers, as Biſhop of Spire.</head>
+                     <item>(L. S.) <hi>John Henric of Kayſersfeld, Plenipotentiary.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the Moſt High Prince and Biſhop of Conſtance.</head>
+                     <item>(L. S.) <hi>Frederick à Durheim.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the Moſt Reverend and Moſt High Biſhop and Prince of HIldeſheim.</head>
+                     <item>(L. S.) <hi>Charles Paul Zimmerman, High Chancellor, Privy Councellor, and Plenipotentiary.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the Moſt Serene and Moſt Reverend Elector of <hi>Cologn,</hi> as Biſhop and Prince of Liege.</head>
+                     <item>(L. S.) <hi>John Conral Norff, Deputed Plenipotentiary.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the Moſt Reverend and Moſt High Biſhop and Prince of Munſter.</head>
+                     <item>(L. S.) <hi>Ferdinand L. B. à Plettenbergexlenhauſen, of the Cathedral-Church, Monaſtery, Dean, and Chapter of the ſame.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the Moſt Serene Elector Palatine, as Duke of <hi>Newburg.</hi>
+                     </head>
+                     <item>L. S.) <hi>John Henric Hetterman, Plenipotentiary.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the moſt Serene Duke of <hi>Wirtenburg.</hi>
+                     </head>
+                     <item>(L. S.) <hi>Jo. George Noble of</hi> Kulpis S. R. <hi>Knight of the Empire, Counſellor of State, Privy Counſellor and Director.</hi>
+                     </item>
+                     <item>(L. S.) Anthony Gunter <hi>of</hi> Heſpen, <hi>Counſellor in the Superior Council, and Plenipotentiary to the Moſt Serene Duke.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the Moſt Serene Prince of <hi>Baden.</hi>
+                     </head>
+                     <item>(L. S.) Charles Ferdinand L. B. <hi>of</hi> Plifferſdorff, <hi>ſaving the order of Succeſſion.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the Abby College of <hi>Swaben.</hi>
+                     </head>
+                     <item>(L. S.) Joſeph Antony Euſeb. <hi>of</hi> Halden <hi>in</hi> Neidtberg, <hi>L. B. of</hi> Auten<g ref="char:EOLhyphen"/>reidt, <hi>Plenipotentiary.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Names of the Counts of <hi>Wetteraw.</hi>
+                     </head>
+                     <item>(L. S.) Charles Otto, <hi>Count</hi> de Solms.</item>
+                     <item>(L. S.) <hi>F. C. de Eccleſiaſtein, Counſellor of</hi> Hanaw, <hi>and Plenipotentiary.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the free and Imperial City of <hi>Cologn.</hi>
+                     </head>
+                     <item>(L. S.) <hi>Hermen Joſeph Bullingen, Syndic, and Plenipotentiary.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the City of <hi>Ausburg.</hi>
+                     </head>
+                     <item>(L. S.) <hi>John Chriſtopher de Dierheim, Plenipotentiary.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the Imperial City of <hi>Franckford.</hi>
+                     </head>
+                     <item>(L. S.) <hi>John Jacob Muller, Plenipotentiary.</hi>
+                     </item>
+                     <item>(L. S.) <hi>John Melebior Lucius. J. V. L. Syndie and Plenipotentiary,</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="25" facs="tcp:110079:13"/>
+            <head type="sub">[Here follow the Full Powers]</head>
+            <head>The Emperour's Full Powers.</head>
+            <p>WE <hi>Leopold</hi> by the Grace of God Elect Emperor of the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> always Auguſt; and King of <hi>Germany, Hungary, Bo<g ref="char:EOLhyphen"/>hemia, Dalmatia, Croatia, Sclavonia,</hi> &amp;c. Archduke of <hi>Auſtria,</hi> Duke of <hi>Burgundy, Brabant, Styria, Carinthia, Carniola,</hi> &amp;c. Marquiſs of <hi>Moravia,</hi> Duke of <hi>Luxemburgh,</hi> and of the Upper and Lower <hi>Sileſia, Wirtemberg</hi> and <hi>Tecka,</hi> Prince of <hi>Swaben.</hi> Count of <hi>Hapsburg, Pifrt, Kyberg,</hi> and <hi>Goritia,</hi> Marquiſs of the Sacred <hi>Roman</hi> Empire, of <hi>Burgovia,</hi> and of the Upper and Lower <hi>Luſatia,</hi> Lord of the Mark of <hi>Sclavonia, Port Naon,</hi> and of the <hi>Salt-Pits,</hi> &amp;c. Declare and make known, That ſeeing we have deſired nothing more ardently, than that the preſent War wherewith Chriſtendom hath for ſome Years been afflicted, might as ſoon as poſſible be converted into a Juſt and Honourable Peace, and that it hath been agreed among the ſeveral Parties at War, that a Treaty and Conferences of Peace ſhould be ſet on foot in a Place choſen by them with common Conſent; we there<g ref="char:EOLhyphen"/>fore being very ready to contribute what in us lies, for promoting the Tranquillity of the Chriſtian World; and being poſſeſs'd of the Fide<g ref="char:EOLhyphen"/>lity, Prudence, and Experience of Ours and the Sacred Roman Em<g ref="char:EOLhyphen"/>pire's faithful and Beloved Counſellor of State, Chamberlain and Vice-Chancellor of the Empire, the Lord <hi>Dominick Andreas</hi> Count of <hi>Caumitz,</hi> Hereditary Lord of <hi>Auſterlitz, Hungariſchbrod, Mahriſprus,</hi> and of the Greater <hi>Orzechan,</hi> Knight of the <hi>Golden Fleece;</hi> and of the moſt Illuſtrious and Magnificent <hi>Henry John</hi> Count of <hi>Straatman,</hi> Lord of <hi>Peurbach, Orth, Schmiding, Spatenbrun,</hi> and <hi>Carlsberg,</hi> of our Council and Bed-Chamber; as alſo our Beloved Councellor and Au<g ref="char:EOLhyphen"/>thorized Commiſſary in the Diets of the Empire, <hi>John Frederick</hi> Free Baron of <hi>Seilern,</hi> &amp;c. We have Named, Choſen, and conſtituted them, as we do by theſe Preſents Name, Chooſe, and Conſtitute them to be Our Extraordinary Ambaſſadors and Plenipotentiaries for the ſaid Aſ<g ref="char:EOLhyphen"/>ſembly and Treaty of Peace. Whom therefore we entruſt and parti<g ref="char:EOLhyphen"/>cularly command, That they repair as ſoon as poſſibly they can to the Place agreed upon by the Parties, and ſet on foot the Con<g ref="char:EOLhyphen"/>ferences of Peace, and there either directly, or by the Intervention of the Mediator, accepted of on all hands, with the Ambaſſadors, or
+<pb n="26" facs="tcp:110079:14"/>ſuch as are deputed with ſufficient Power from the moſt Serene, moſt Potent, and moſt Chriſtian Prince <hi>Lewis</hi> King of <hi>France,</hi> &amp;c. our Kinſman and moſt dear Brother, for terminating the preſent War and Controverſies relating thereunto, by a good and firm Peace. We alſo give a full and abſolute Power, with all the Authority and Com<g ref="char:EOLhyphen"/>mand that is neceſſary thereunto, to our above-named Ambaſſadors Extraordinary and Plenipotentiaries, whether all Three conjunct, or any two of them in the abſence of the third, or through other Impe<g ref="char:EOLhyphen"/>diment, or elſe to any one of them alone and apart, in the abſence in like manner of the other two, or through other Impediment, to enter upon, conclude, and ſign the Treaty of Peace for Us, and in our Name, between Us and the foreſaid moſt Serene, moſt Potent, and moſt Chriſtian King of <hi>France;</hi> and alſo to negotiate, diſpatch, and finiſh all Inſtruments that may be required for that end, and ſo univer<g ref="char:EOLhyphen"/>ſally to act, promiſe, ſtipulate, conclude, and ſign Acts, Declarati<g ref="char:EOLhyphen"/>ons, to change Agreements, and to do all things that belong to the ſaid Negotiation of Peace, as amply and freely as if we our ſelves were preſent and did it, or might do, tho' any thing therein ſhould require more particular Order than is contained in theſe Preſents. We do moreover promiſe and declare, in the Faith, and upon our Impe<g ref="char:EOLhyphen"/>rial Word, to obſerve and fulfil whatſoever our ſaid Ambaſſadors Ex<g ref="char:EOLhyphen"/>traordinary and Plenipotentiaries, all three conjunctly, or any two of them in the abſence of the third, or through other Impediment, or one of them only, in like manner through the abſence of the other two, or other Impediment, ſhall act, conclude, ſign, deliver, and exchange, obliging our ſelves by theſe Preſents to diſpatch away the Inſtrument of our Ratifications, in decent and ſolemn form, within the Time a<g ref="char:EOLhyphen"/>greed upon.</p>
+            <closer>
+               <dateline>In Witneſs and Confirmation whereof, we have com<g ref="char:EOLhyphen"/>manded theſe Preſents, Subſcribed with our own Hand, to be Con<g ref="char:EOLhyphen"/>firmed by our Imperial Seal, <date>the Third Day of <hi>February,</hi> in the Year 1697. of our Reign over the Roman Empire the Thirty Ninth, over <hi>Hungary</hi> the Two and Fortieth, and <hi>Bohemia</hi> the Forty Firſt.</date>
+               </dateline>
+               <signed>
+                  <hi>Leopold.</hi> (L. S.) <hi>Sebaſtian Wunibaldus,</hi> Count of <hi>Zeyll.</hi> By his Imperial Majeſty's particular Command. <hi>Gaſpar Florentius Consbruch.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="27" facs="tcp:110079:14"/>
+            <head>The full Powers of the Empire.</head>
+            <p>FOraſmuch as the Holy <hi>Roman</hi> Empire, Electors, Princes, and States have thought fit to chuſe amongſt them ſuch as they thought ſitting to treat between his Imperial Majeſty, our moſt Gracious Lord, the Empire, and the reſt of the High Allies of the one Part, and the Crown of <hi>France</hi> on the other Part; upon the Foundation of the <hi>Weſtphalian Treaty</hi> at <hi>Nimeguen,</hi> to aſſiſt at the Treaty to be held at <hi>Riſwick,</hi> and his Intereſt to maintain therein. And ſo out of the Ellectoral Colledge Chur <hi>Mayence,</hi> Chur <hi>Baviere,</hi> Chur <hi>Saxony,</hi> Chur <hi>Brandenburg,</hi> and on the Parts of the Catholick Princes <hi>Auſtrich, Saltz<g ref="char:EOLhyphen"/>burg,</hi> High Maſter of the <hi>Teutonnick Order, Wortzburg, Spire, Coſtantz, Hilderſhiem, Liege, Munſter;</hi> ſalvo alternationis ordine, <hi>Pſaltz Neubourg, Badden-Baaden, Suabiche,</hi> Prelates: And further more, <hi>A. C.</hi> having Relation therto, <hi>Magdeburg, Sweden, Bremen,</hi> or <hi>Pfatz Zweybrucken, Saxon-Coburg, Saxon-Gotha, Brandenburg-Collenbach, Brunſwick-Zell, Brunſ<g ref="char:EOLhyphen"/>wick-Wolfenbutel, Heſſen-Caſſel, Wurtenburg,</hi> ſalvâ alternatione, <hi>Holſtein-Gluckſtat, Anhalt,</hi> the <hi>Wetteravith Counts;</hi> and on the Part of the Im<g ref="char:EOLhyphen"/>perial Catholick Cities, <hi>Cologn</hi> and <hi>Ausburg;</hi> and A C. on the Part of <hi>Frankfort</hi> and <hi>Nuremberg,</hi> to be choſen and nominated to it. Therefore is given to them from the whole Empire full Power to the aforeſaid End; that they may ſend their own Miniſters with full Power, and without Delay, to the appointed Place, and there to appear with their moſt excellent Lords Plenipotentiaries, and according to the Contents of their Inſtructions, to conſult and treat <hi>juxta ſtylum Imperii,</hi> that it may conduce to the reſtoring of an honeſt, ſure, happy, and common Peace; and to the Eaſe of the oppreſs'd States of the Realm, and the reſtoring their deſired Rights and Privilege, as in Reaſon may be requi<g ref="char:EOLhyphen"/>red, to the common Eaſe and Welfare of the <hi>Fatherland.</hi> In Caſe of Abſence of any Miniſter by Sickneſs or otherwiſe, (that then they ſhall have Power to vote by a Proxy of their own Religion.) Furthermore, whatſoever ſhall be concluded by their aforeſaid Excellent Imperial Am<g ref="char:EOLhyphen"/>baſſadors according to the aforeſaid Inſtructions, ſhall be ratified and con<g ref="char:EOLhyphen"/>firmed on all Sides by the Deputies of the Realm, an I Satisfaction giv<g ref="char:EOLhyphen"/>en, accepted and kept without Breach; alſo the deputing States, as is proper on ſuch Occaſions, ſhall at all times be firmly kept.</p>
+            <closer>
+               <dateline>
+                  <date>The 15th of <hi>June,</hi> 1697.</date>
+               </dateline>
+               <signed>
+                  <hi>Signatum. RATISBONE.</hi> (L. S.) <hi>Churfurſtle Maintz,</hi> Chancellour</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="28" facs="tcp:110079:15"/>
+            <head>The <hi>French</hi> full Powers.</head>
+            <p>
+               <hi>LEwis,</hi> By the Grace of God, King of <hi>France</hi> and <hi>Navarre,</hi> to all that ſhall ſee theſe Preſents, Greeting: As we have deſir'd nothing more ardently than by a good Peace to ſee the War ended, were with Chriſtendom is at this time afflicted, and that by the En<g ref="char:EOLhyphen"/>deavors and Mediation of our moſt Dear, and moſt Beloved Brother, the King of <hi>Swedeland,</hi> the Towns of <hi>Delph</hi> and the <hi>Hague,</hi> have been agreed upon by all the Parties to hold their Conferences in, to that end; we with the ſame Deſire of putting a ſtop as much as in us lies, and with the Aſſiſtance of Divine Providence, to the Deſolation of ſo many Provinces, the effuſion of ſo much Chriſtian Blood, do make known, that we repoſing an entire Confidence in the Experience, Ca<g ref="char:EOLhyphen"/>pacity and Fidelity of our truſty and well-beloved the Sieur <hi>de Harlay, de Bonneuill,</hi> Counſellor in Ordinary in our Councils of State, and of our well-belov'd the Sieur <hi>Verjus,</hi> Count of <hi>Crecy,</hi> Baron of <hi>Courcy,</hi> Lord of <hi>Boulay,</hi> of the two Churches of <hi>Menillet,</hi> and other Places, as alſo of that of our Well-beloved the Sieur <hi>de Callicres, de la Roche<g ref="char:EOLhyphen"/>chellay</hi> and <hi>de Gigny,</hi> who is actually in the Town of <hi>Delph,</hi> by the advantageous Proofs he has given us thereof, in divers important Im<g ref="char:EOLhyphen"/>ployments wherewith we have entruſted him, as well within as without the Kingdom. For theſe Cauſes and other good Conſiderations mo<g ref="char:EOLhyphen"/>ving us thereunto, we have conſtituted, ordered, and deputed the ſaid Sieurs <hi>de Ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lay, de Crecy,</hi> and <hi>de Callieres,</hi> and do by theſe Preſents ſign'd with our own Hand, conſtitute, order, and appoint, and have given and do give them full Power, Commiſſion and eſpe<g ref="char:EOLhyphen"/>cial Command to go to the ſaid Town of <hi>Delph</hi> in Quality of our Ambaſſadors<g ref="char:punc">▪</g> Extraordinary, and Plenipotentiaries for the Peace, and to confer either dir<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ly, or by the Interpoſition of the Ambaſſadors, Mediators reſpectively receiv'd and agreed upon by all the Ambaſſa<g ref="char:EOLhyphen"/>dors, Plenipotentiaries and Miniſters, as well of our moſt Dear and Moſt-beloved Brother the Emperor of the <hi>Romans,</hi> as of our moſt Dear and Moſt-Beloved Brother and Couſin the Catholick King, as alſo of our moſt Dear and great Friends the States General of the United Provinces of the Low-Countries, and of all the other Princes their Allies, all furniſh'd with ſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fici<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt Powers, and theſe to treat of the Means, to terminate and pacific the Diffe<g ref="char:EOLhyphen"/>rences which cauſe the War at this Day: And our ſaid Ambaſſadors and Plenipotentiaries, may all Three together, or Two of them in
+<pb n="29" facs="tcp:110079:15"/>Caſe of the abſence of the Third thro' Sickneſs, or other Impedi<g ref="char:EOLhyphen"/>ment, or One only of them in the Abſence of the other Two in like Caſe of Sickneſs, or other Impediment, agree thereupon, and conclude, and ſign a good Peace, and generally make, negotiate, promiſe and agree to all that which they ſhall think neceſſary for effecting the ſaid Peace, with the ſame Authority as if we our ſelves might or ſhould do, if we were Perſonally preſent, tho' any thing therein ſhould require more particular Order than is contained in theſe Preſents; promiſing in the Faith and upon the Word of a King to obſerve and fulfill whatever the ſaid Sieurs <hi>de Harlay, de Crecy,</hi> and <hi>de Callieres,</hi> or Two of them in caſe of the Ab<g ref="char:EOLhyphen"/>ſence of the Third, thro' Sickneſs or any other Impediment, or any One of them in the Abſence of the other Two, upon the like Ac<g ref="char:EOLhyphen"/>count of Sikcneſs, or other Impediment, ſhall ſtipulate, promiſe, and agree unto, and to cauſe our Letters of Ratification to be diſpatch'd within ſuch time as they ſhall promiſe in our Name to produce them; for ſuch is our Pleaſure, in Witneſs whereof we have ſet our Seal to theſe Preſents.</p>
+            <closer>
+               <dateline>Given at <hi>Verſailles</hi> 
+                  <date>the 25th Day of <hi>February</hi> in the Year of our Lord, 1697.</date>
+               </dateline> 
+               <signed>Sign'd <hi>Lewis,</hi>
+               </signed> and upon the Fold by the King, <hi>Colbert,</hi> and ſeal'd with the Great Seal in Yellow Wax.</closer>
+         </div>
+         <div type="text">
+            <head>A Separate Article.</head>
+            <p>FOR the further explaining of the Article, <hi>The moſt Chriſtian King ſhall reſtore to the Elector Palatine, &amp;c.</hi> 8. It has been thought convent to add further to the Treaty of Peace ſign'd this Day, That in propoſing and deciding the Pretenſions or Rights the Dutcheſs of <hi>Orleans</hi> has againſt the Elector Palatine, this Method ſhall be obſerved. When the two Arbitrators ſhall agree upon the Place of meeting, within the time prefixt in the Ratifications of the Peace, each Party ſhall have notice given him of the ſaid Place, and thither within the ſpace of two Months, to be reckon'd from the full Re<g ref="char:EOLhyphen"/>ſtitution made to the Elector Palatine, according to the ſame Article, the Delegates of the Arbitrators ſhall be ſent. There then within one Month's ſpace, ſhall be exhibited an entire Declaration of the Pretenſions or Requeſts of the Dutcheſs of <hi>Orleans</hi> againſt the Elector, and the ſame ſhall be communicated within eight days to the Elector. Let the Grounds that both Parties go upon be drawn from thence, and delivered there to the Delegates of the Arbitrators within four Months more, the day to be aſſign'd by them; and of this let there be four Copies, whereof the Arbitrators are to keep one a-piece in
+<pb n="30" facs="tcp:110079:16"/>their Cuſtody, the third ſhall be put to the Common Acts of Arbi<g ref="char:EOLhyphen"/>tration, and the fourth ſhall be communicated to each of the Parties within eight Days. Anſwer ſhall be given in the ſame manner, and there ſhall on the ſame Day be exhibited to the Delegates of the Arbitrators the Anſwer of each Party, whereof there ſhall be alſo four Copies, and the ſame Anſwer is mutually to be delivered to the reſpective Parties again within the ſpace of eight days. Progreſs ſhall be made on both ſides during the four following Months, towards the Concluſion of the Cauſe, which ſhall alſo be ſubmitted to the Sentence of Arbi<g ref="char:EOLhyphen"/>tration; and of this Concluſion and Submiſſion, Information ſhall be given to the Parties, and the Acts ſhall be enrolled by the Procura<g ref="char:EOLhyphen"/>tors of the Parties which are preſent. Having therefore ſeen and exa<g ref="char:EOLhyphen"/>min'd the Right of each Party within the ſpace of ſix Months, Sen<g ref="char:EOLhyphen"/>tence ſhall be publickly paſs'd by the Arbitrators, or their Delegates ſworn in the Place of Meeting, according to the Laws and Conſti<g ref="char:EOLhyphen"/>tutions of the Empire, and where it ſhall be agreeable thereunto ſhall be fully executed. But if the Arbitrators of their Delegates, ſhall diſagree in their Sentences, the Common Acts of the Arbitra<g ref="char:EOLhyphen"/>tion ſhall within two Months ſpace, to commence from the day of Sentence, at the Common Charges of the Parties, be transferred to <hi>Rome,</hi> and exhibited to the Pope as Chief-Arbitrator, who ſhall alſo commit the thing to be examin'd to Delegates ſuſpected to neither of the Parties, and ſworn within two Months, and theſe upon the for<g ref="char:EOLhyphen"/>mer Acts ſhall paſs the laſt Sentence without allowing to the Parties any farther deduction of the Matter, within ſix Months hereafter to follow, as has been ſaid, according to the Laws and Conſtitutions of the Empire, from which Sentence there ſhall be no revocation, but the Lords Arbitrators ſhall put the ſame in Execution, without any Delay or Contradiction. But and if either Party in propoſing, handling, or proving their Pretenſions and Rights, ſhall make any delay, it ſhall be free however for the other Party, within the appointed times, which ought never to be extended, to exhibit and ſet forth their Rights, and for the Arbitrators, as well as Super-Arbitrator, to proceed according to the Method agreed on, and to pronounce Sen<g ref="char:EOLhyphen"/>tence according to the Acts and Proofs that are exhibited. But not<g ref="char:EOLhyphen"/>withſtanding this way of Procedure, both the Parties themſelves, as well as the Arbitrators, ſhall endeavour to find out an Amicable Way of Agreement, and omit nothing that can tend to ter<g ref="char:EOLhyphen"/>minate the Controverſie in a Friendly Manner. And ſeeing it is agreed on in the Article of Peace now cited, that untill this Con<g ref="char:EOLhyphen"/>troverſie be ended, the Yearly Sums of two hundred thouſand Livres, or an hundred thouſand Horins, ſhall by the Elector Palatine be paid to
+<pb n="31" facs="tcp:110079:16"/>the Dutcheſs of <hi>Orleans;</hi> moreover it is particularly agreed on in reſpect to that Payment, and the time from which it ought to commence, that the ſame ſhall begin and take place, after that according to the Tenor of the ſaid Article there mentioned, there be plenary Reſtitution made to the Elector. And that the Dutcheſs of <hi>Orleans</hi> may be ſo much the more ſecure as to the payment of the ſaid Summ, the Elector ſhall name ſo many of his Agents or Collectors in the Prefecture of <hi>Ger<g ref="char:EOLhyphen"/>merſhein,</hi> or other places of the Palatinate, before the Ratification of the Peace, as will be enough, who ſhall take upon them to perform the ſame to the Dutcheſs or her Agent at <hi>Landaw</hi> every year, the one half to be paid every Half-year; and who, if they do not ſatisfie it, may be forced to pay it by the ordinary Courſe of Juſtice; and if there be any further neceſſity for it, even by the moſt Chriſtian King himſelf by Military Execution. But this Payment ſhall be made up<g ref="char:EOLhyphen"/>on that Condition, That what is paid upon Account of the ſaid An<g ref="char:EOLhyphen"/>nual Summ to the Dutcheſs of <hi>Orleans,</hi> while the Deciſion of the Matter ſtands before the Arbitrators, ſhall be compenſated with the Pretenſions, if any of them be adjudged by the Arbitrators to her, or if nothing or leſs be decided to be owing her, they ſhall be re<g ref="char:EOLhyphen"/>ſtored, and this Compenſation or Reſtitution, ſhall as well as the Difference it ſelf, be determin'd by the Sentence of the Arbitrators. But and if the Dutcheſs of <hi>Orleans</hi> ſhall not ſatisfie the compromiſed Form, in exhibiting a Declaration of her Pretences, in giving Inſtru<g ref="char:EOLhyphen"/>ctions in the Cauſe, and making Anſwers to thoſe exhibited by the Elector, but ſhall delay, the Courſe of that Annual Payment ſhall be ſtopp'd for that ſpace of time, the Proceedings in the Cauſe going on according to ſame compromis'd <hi>Formula.</hi>
+            </p>
+            <closer>
+               <dateline>Done in the Palace of <hi>Reſwick,</hi> 
+                  <date>
+                     <hi>Octob.</hi> 30. 1697.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>(L. S.) <hi>D. A. C.</hi> of <hi>Caunitz.</hi>
+                     </item>
+                     <item>(L. S.) <hi>Henr. C. de Straatman.</hi>
+                     </item>
+                     <item>(L. S.) <hi>J. F. L. B. à Seilern.</hi>
+                     </item>
+                     <item>(L. S.) <hi>de Harlay Boneuil.</hi>
+                     </item>
+                     <item>(L. S.) <hi>Verjus de Crecy.</hi>
+                     </item>
+                     <item>(L. S.) <hi>de Callieres.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the Elector of <hi>Mentz.</hi>
+                     </head>
+                     <item>(L. S) <hi>M. Frederick Baron de Schonborn Emb.</hi>
+                     </item>
+                     <item>(L. S.) <hi>Ignatius Antonius Otten. Plenipotentiary.</hi>
+                     </item>
+                     <item>(L. S.) <hi>Georgius William. Moll. Plenipotentiary.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the Serene: Duke of <hi>Bavaria.</hi>
+                     </head>
+                     <item>
+                        <hi>de Prielmyer, Extraordinary Em. and Plenipotentiary.</hi> (L. S)</item>
+                  </list>
+                  <list>
+                     <head>In the Name of the Houſe of <hi>Auſtria.</hi>
+                     </head>
+                     <item>(L. S.) <hi>Fran is Rodulphus of Hald<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n L. Baron of Trasherg.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the great Maſter of the Teutonic Order.</head>
+                     <item>(L. S) <hi>Charles B. à Lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>,</hi> Knight of the Teutonick Order.</item>
+                  </list>
+                  <pb n="32" facs="tcp:110079:17"/>
+                  <list>
+                     <head>In the Name of the moſt high Prince and Biſhop of <hi>Wertzburg.</hi>
+                     </head>
+                     <item>(L. S.) <hi>John Conrad, Phil<gap reason="illegible" resp="#UOM" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>gnatius de Taſtungen.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the moſt high and moſt Eminent Elector of <hi>Trier,</hi> as Biſhop of <hi>Spire.</hi>
+                     </head>
+                     <item>(L. S.) <hi>John Henry de Kerſersfeld,</hi> Plenipotentiary.</item>
+                  </list>
+                  <list>
+                     <head>In the Name of the moſt high Prince and Biſhop of <hi>Conſtance</hi>
+                     </head>
+                     <item>(L. S.) <hi>Frederick à Derheim.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the moſt Reverend, and moſt High Biſhop and Prince of <hi>Hilderſheim.</hi>
+                     </head>
+                     <item>(L. S.) <hi>Charles Paul Zimmerman,</hi> Chancellour and Counſellour to his Highneſs, and his Plenipotentiary.</item>
+                  </list>
+                  <list>
+                     <head>In the Name of the moſt Serene and moſt Reverend Elector of <hi>Cologn,</hi> as Biſhop and Prince of <hi>Liege.</hi>
+                     </head>
+                     <item>(L. S.) <hi>John Conrad Norf.</hi> deputed Plenipotentiary.</item>
+                  </list>
+                  <list>
+                     <head>In the Name of the moſt Reverend, and moſt High Biſhop and Prince of <hi>Munſter.</hi>
+                     </head>
+                     <item>(L. S.) <hi>Ferdinand L. B. of Plettenberg of Lenhanſen, D. &amp; Capit.</hi> of the Cathedral Church of <hi>Braderb. &amp;c.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the moſt Serene Elector Palatine as Duke of <hi>Newberg.</hi>
+                     </head>
+                     <item>(L. S.) <hi>John Henry Hetterman,</hi> Plenipotentiary.</item>
+                  </list>
+                  <list>
+                     <head>In the Name of the moſt Serene Margiſs of <hi>Baden.</hi>
+                     </head>
+                     <item>(L. S.) <hi>Charles Ferdinand, L. B. d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Plitterſdorff,</hi> ſaving the Order of Succeſſion.</item>
+                  </list>
+                  <list>
+                     <head>In the Name of the Abbey-College of <hi>Swaben.</hi>
+                     </head>
+                     <item>(L. S.) <hi>Joſeph Anton. Euſeb. de Halden in Neidberg F. B. de Autenriedt.</hi> Plenipotentiary.</item>
+                  </list>
+                  <list>
+                     <head>In the Name of the Free and Imperial City of <hi>Cologn.</hi>
+                     </head>
+                     <item>(L. S.) <hi>Herman Joſeph Bullingen, Syndic &amp; Plenipotentiary.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>In the Name of the City of <hi>Ausberg.</hi>
+                     </head>
+                     <item>(L. S.) <hi>John Chriſtopher à Dierheim</hi> Plenipotent.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
